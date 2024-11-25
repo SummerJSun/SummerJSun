@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jinghan (Summer) Sun</h1>
 <h3 align="center">A passionate student from Emory University in Atlanta, USA</h3>
 
-- 🔭 I’m currently working on [PediatricAirwayAssistance](https://d3g1qw60hz7yw7.cloudfront.net/) and constructing a capstone project in data science for environmental justice
+- 🔭 I’m currently working on [PediatricAirwayAssistance](https://d3g1qw60hz7yw7.cloudfront.net/), [Adversarial attack on CNN model](https://github.com/SummerJSun/Adversarial-Attack-on-CNN) and constructing an capstone project on environmental justice
 
 - 🌱 I’m currently learning **data science, machine learning and AI**
 
